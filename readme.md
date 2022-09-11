@@ -16,17 +16,17 @@
 ***
 ## Description
 
-This project [Product Design Landing Page](https://interior-home-page.netlify.app/) was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **grid**, **positions(absolute, relative)**, **flexbox**, **pseudo classes** and to make the webapge look production ready with help of HTML & CSS only. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Product Design Landing Page](https://prdesign-page.netlify.app/) was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **grid**, **positions(absolute, relative)**, **flexbox**, **pseudo classes** and to make the webapge look production ready with help of HTML & CSS only. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link](https://interior-home-page.netlify.app/)
+* [LIVE Project Link](https://prdesign-page.netlify.app/)
 
-* [Youtube Video Demo](https://youtu.be/GyOmVp-HF2M)
+* [Youtube Video Demo](https://youtu.be/YiwVvut8p5o)
 
-* [Source Code](https://github.com/ShubhamSingh03/InteriorDesignLandingPage)
+* [Source Code](https://github.com/ShubhamSingh03/ProductDesignLandingPage)
 
 ***
 ### Built With 
