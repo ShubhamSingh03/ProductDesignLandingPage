@@ -16,17 +16,17 @@
 ***
 ## Description
 
-This project [Product Design Landing Page]() was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **grid**, **positions(absolute, relative)**, **flexbox**, **pseudo classes** and to make the webapge look production ready with help of HTML & CSS only. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Product Design Landing Page](https://interior-home-page.netlify.app/) was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **grid**, **positions(absolute, relative)**, **flexbox**, **pseudo classes** and to make the webapge look production ready with help of HTML & CSS only. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://interior-home-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/GyOmVp-HF2M)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/InteriorDesignLandingPage)
 
 ***
 ### Built With 
@@ -111,19 +111,15 @@ This project [Product Design Landing Page]() was built using Semantic HTML and C
 ***
 
 ### Checkout Portfolio & Other Projects
-<br>
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-#### [Personal Portfolio]()
-
-
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#product-design-landing-page)
